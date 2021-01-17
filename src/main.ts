@@ -8,7 +8,6 @@ hello(quem)
 
 function bye(b: string): void {
   console.log('Bye Bye', b)
-
 }
 
 bye(quem)
