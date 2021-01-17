@@ -5,3 +5,9 @@ function hello(q: string): void {
 const quem: string = 'World!'
 
 hello(quem)
+
+function bye(b: string): void {
+  console.log('Bye Bye', b)
+}
+
+bye(quem)
